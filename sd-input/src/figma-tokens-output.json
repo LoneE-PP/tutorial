@@ -729,8 +729,18 @@
     },
     "paragraphIndent": {
       "0": {
-        "value": "0px",
-        "type": "dimension"
+        "value": "0",
+        "type": "paragraphIndent"
+      },
+      "2": {
+        "value": "2",
+        "type": "paragrapIndent"
+      }
+    },
+    "borderwidth": {
+      "1": {
+        "value": "1",
+        "type": "borderwidth"
       }
     }
   },
