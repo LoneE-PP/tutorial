@@ -728,13 +728,11 @@
       }
     },
     "paragraphIndent": {
-      "0": {
-        "value": "0px",
-        "type": "dimension"
-      }
+      "value": "{paragraphIndent.0}",
+      "type": "dimension"
     },
     "borderwidth": {
-      "value": "{paragraphIndent.1}",
+      "value": "1px",
       "type": "borderWidth"
     }
   },
