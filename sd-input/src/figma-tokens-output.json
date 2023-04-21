@@ -728,12 +728,20 @@
       }
     },
     "paragraphIndent": {
-      "value": "{paragraphIndent.0}",
-      "type": "dimension"
+      "0": {
+        "value": "0",
+        "type": "paragraphIndent"
+      },
+      "2": {
+        "value": "2",
+        "type": "paragrapIndent"
+      }
     },
     "borderwidth": {
-      "value": "1px",
-      "type": "borderWidth"
+      "1": {
+        "value": "1",
+        "type": "borderwidth"
+      }
     }
   },
   "$themes": [],
