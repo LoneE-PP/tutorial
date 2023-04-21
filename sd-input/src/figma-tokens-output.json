@@ -732,6 +732,10 @@
         "value": "0px",
         "type": "dimension"
       }
+    },
+    "borderwidth": {
+      "value": "{paragraphIndent.1}",
+      "type": "borderWidth"
     }
   },
   "$themes": [],
