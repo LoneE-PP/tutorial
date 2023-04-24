@@ -729,9 +729,28 @@
     },
     "paragraphIndent": {
       "0": {
-        "value": "0px",
-        "type": "dimension"
+        "value": "0",
+        "type": "paragraphIndent"
+      },
+      "2": {
+        "value": "2",
+        "type": "paragrapIndent"
       }
+    },
+    "borderwidth": {
+      "1": {
+        "value": "1",
+        "type": "borderwidth"
+      }
+    },
+    "Border": {
+      "value": {
+        "color": "{Black #000000}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "test"
     }
   },
   "$themes": [],
