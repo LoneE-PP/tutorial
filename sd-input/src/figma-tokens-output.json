@@ -742,6 +742,15 @@
         "value": "1",
         "type": "borderwidth"
       }
+    },
+    "Border": {
+      "value": {
+        "color": "{Black #000000}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "test"
     }
   },
   "$themes": [],
