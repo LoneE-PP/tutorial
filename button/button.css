@@ -1,0 +1,13 @@
+.btn {
+  background-color: var(--figma-green-primary-cfe548);
+  padding: 0.5rem 1.5rem;
+  color: var(--figma-white-ffffff);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0.25rem;
+}
+
+.btn:hover {
+  background-color: var(--figma-purple-earth-3-a364-c);
+}
