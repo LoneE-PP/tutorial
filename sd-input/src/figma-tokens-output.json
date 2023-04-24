@@ -745,7 +745,7 @@
     },
     "Border": {
       "value": {
-        "color": "{Purple.Primary #7546E8}",
+        "color": "{Green.Primary #CFE548}",
         "width": "1",
         "style": "solid"
       },
