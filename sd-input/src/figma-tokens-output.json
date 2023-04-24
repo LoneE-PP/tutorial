@@ -745,7 +745,7 @@
     },
     "Border": {
       "value": {
-        "color": "{Blue.Earth #354349}",
+        "color": "{White #FFFFFF}",
         "width": "1",
         "style": "solid"
       },
