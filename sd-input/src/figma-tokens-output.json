@@ -742,6 +742,15 @@
         "value": "1",
         "type": "borderwidth"
       }
+    },
+    "Border": {
+      "value": {
+        "color": "{Blue.Earth #354349}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "test"
     }
   },
   "$themes": [],
